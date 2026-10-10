@@ -2,7 +2,7 @@
 
 A personal portfolio website that shows both sides of me: an IT student who builds Android and web apps, ML models and Power BI dashboards, and a creative who makes rangolis, designs on Canva and photographs the sky.
 
-**Live site:** https://varsh23-p.github.io/REPO-NAME/
+**Live site:** [https://varshptl23-portfolio.vercel.app/]
 
 ## What's inside
 
